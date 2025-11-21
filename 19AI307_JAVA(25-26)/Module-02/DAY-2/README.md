@@ -41,8 +41,8 @@ Call printArea() to display the result.
  ```
 /*
 Program to implement a Methods using Java
-Developed by: 212222230129
-RegisterNumber:  Sandhiya R
+Developed by: Sandhiya R
+RegisterNumber:  212222230129
 */
 ```
 
@@ -75,3 +75,4 @@ public class Main{
 ## RESULT:
 
 The program successfully reads the radius, computes the area of the circle using a return-type method, and prints the result using a separate void method.
+
